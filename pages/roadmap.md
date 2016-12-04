@@ -42,6 +42,8 @@ permalink: "/roadmap/"
 |Dec. 2  | Brian   | Cellular Automata           |
 |Dec. 9  | Eli     | Belief Propagation          |
 |Dec. 16 | Dima    |                             |
+|Jan. ?  | Paul    | Gibbs Sampling              |
+|Jan. ?? | Matt    |                             |
 |:-------|:--------|:---------------------------:|
 
 ## Ideas for presentations
