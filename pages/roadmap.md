@@ -41,7 +41,7 @@ permalink: "/roadmap/"
 |Nov. 25 | Juha    | Automatic Focus             |
 |Dec. 2  | Brian   | Cellular Automata           |
 |Dec. 9  | Eli     | Belief Propagation          |
-|Dec. 16 | Dima    |                             |
+|Dec. 16 | Dima    | Simplex Algorithm           |
 |Jan. ?  | Paul    | Gibbs Sampling              |
 |Jan. ?? | Matt    |                             |
 |:-------|:--------|:---------------------------:|
