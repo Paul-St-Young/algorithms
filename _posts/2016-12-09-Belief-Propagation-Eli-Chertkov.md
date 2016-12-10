@@ -2,7 +2,7 @@
 layout: page
 title:  "Belief Propagation"
 subheadline:  "by Eli Chertkov"
-teaser: "a preview"
+teaser: "Belief Propagation is a powerful message-passing algorithm at the heart of some of the most effective error-correcting coding schemes currently in use."
 
 categories:
     - algorithm
