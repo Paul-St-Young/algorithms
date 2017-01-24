@@ -5,6 +5,7 @@ subheadline: "ToDo-List &amp; Ideas"
 teaser: "Here are some ideas we hope to cover/implement in the future."
 header:
    image_fullwidth: "header_roadmap_3.jpg"
+permalink: "/roadmap/2016"
 ---
 
 ## Current schedule (4:30 pm, Loomis 322)
