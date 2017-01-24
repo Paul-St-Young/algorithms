@@ -5,49 +5,70 @@ subheadline: "ToDo-List &amp; Ideas"
 teaser: "Here are some ideas we hope to cover/implement in the future."
 header:
    image_fullwidth: "header_roadmap_3.jpg"
-permalink: "/roadmap/"
 ---
 
-### Time: Tuesday 2:00 pm CST
-### Location: NCSA 2100
-
-## Current schedule
+## Current schedule (4:30 pm, Loomis 322)
 
 |:-------|:--------|:---------------------------:|
 |  Date  | Person  | Subject                     |
 |:-------|:--------|:---------------------------:|
-|Jan. 24 | Paul    | Gibbs Sampling              |
-|Jan. 31 | Matt    | Dropout Layer               |
+|May 25  | Eli     | Kalman Filter               |
+|June 1  | Paul    | Automatic Differentiation   |
+|June 8  | Dima    | Boltzmann Machine           |
+|June 15 | Brian   | Compressed Sensing          |
+|June 22 | Benji   | Machine Learning            | 
+|June 29 | Alex    | Fractal Compression         |
+|July 6  | Matt    | Adaptive Boosting           |
+|July 13 | Will    | Finding Eigenvalues         |
+|July 20 | Nick    | Theory of computation       |
+|July 28 | Jyoti   | Quantum algorithms          |
+|Aug. 4  | Ben     | Barnes-Hut Algorithm        |
+|Aug. 17 | Brian   | Genetic Algorithms          |
+|Aug. 24 | Eli     | Error Correcting Codes      |
+|Sep. 2  | Dima    | Fast Fourier Transform      |
+|Sep. 9  | Paul    | Particle Swarm Optimization |
+|Sep. 16 | Matt    | Predict Seizures with EEG   |
+|Sep. 23 | Kiel    | Numerical Integrators       |
+|Sep. 30 | Ben     | Shors algorithm             |
+|Oct. 7  | Souvik  | Max-flow Min-cut Theorem    |
+|Oct. 14 | Dot     | Crochet Hyperbolic Geometry |
+|Oct. 21 | Benji   | Pitch Correction - autotune |
+|Oct. 28 | Pratik  | Hidden Markov Models        |
+|Nov. 4  | Alex    | Facial Detection            |
+|Nov. 11 | Will    |Proportional-Integral Control|
+|Nov. 18 | Shivesh | Quantum Error Correction    |
+|Nov. 25 | Juha    | Automatic Focus             |
+|Dec. 2  | Brian   | Cellular Automata           |
+|Dec. 9  | Eli     | Belief Propagation          |
+|Dec. 16 | Dima    | Simplex Algorithm           |
+|Jan. ?  | Paul    | Gibbs Sampling              |
+|Jan. ?? | Matt    |                             |
 |:-------|:--------|:---------------------------:|
-
-[2016 schedule][1]
-[1]: {{ site.url }}/pages/2016roadmap.md
 
 ## Ideas for presentations
 
  - Machine learning.
    - Back propogation.
+   - ~~Boltzmann machine.~~
    - Clustering.
    - High dimensional visualization.
-   - ~~Boltzmann machine.~~
  - Control theory and signal processing.
    - Model reduction.
-   - ~~Kalman filter.~~
    - ~~Hidden markov model.~~
    - ~~Proportional-integral (PI) controller.~~
+   - ~~Kalman filter.~~
  - Stochastic algorithms.
-   - The Metropolis approach to sampling and alternatives
+   - The Metropolis approach to sampling and alternatives (Gibbs sampling, etc.).
    - Global balance (pentalty method).
    - Quasi-random numbers.
+   - ~~Evolutionary, and genetics algorithms.~~
+   - ~~Particle Swarm Optimization~~
    - Ant Colony Optimization
    - Parallel tempering.
    - Simulated annealing.
    - Stochastic hill climbing.
    - Bayesian networks.
-   - ~~Evolutionary, and genetics algorithms.~~
-   - ~~Particle Swarm Optimization~~
-   - ~~Belief propogation~~
-   - ~~Gibbs sampling~~
+   - Belief propogation.
  - Encryption.
    - Symmetric-key, Public-key (RSA) cryptography
    - Cryptanalysis (breaking encryption).
@@ -60,30 +81,30 @@ permalink: "/roadmap/"
    - Steepest descent, Conjugate gradiant, Quasi-Newton, ....
    - Noisy optimization.
  - Linear Algebra.
-   - Random matrix theory.
    - ~~QR / SVD. principle component analysis~~
    - ~~Diagnolization~~, inversion.
    - ~~Lanczos~~
+   - Random matrix theory.
    - ~~Fast Fourier transforms (FFT).~~
  - Numerical solutions to differential equations.
    - Finite difference approach.
+   - ~~Runge-Kutta and family.~~
    - PDE solvers (additional problems from multivariate)
    - Energy conserving or time-reversal invariant versions.
-   - ~~Runge-Kutta and family.~~
  - Data compression.
    - Image compression techniques (one or more).
-   - Compressed sensing (probabilistic approach and connections to stat mech).
    - ~~Compressed sensing (l-1 technique).~~
+   - Compressed sensing (probabilistic approach and connections to stat mech).
  - Image Processing
    - Image recognition
    - ~~Automatic focus~~
  - Quantum computing.
    - Quantum annealing.
    - Quantum error correction.
-   - Quantum encryption.
-   - Quantum stabilizers.
    - ~~Grover algorithm.~~
    - ~~Shor algorithm.~~
+   - Quantum encryption.
+   - Quantum stabilizers.
  - Parallelism.
    - Parallel linear algebra.
    - OpenMP and MPI
