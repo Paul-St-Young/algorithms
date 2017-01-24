@@ -9,6 +9,7 @@ permalink: "/roadmap/"
 ---
 
 ### Time: Tuesday 2:00 pm CST
+
 ### Location: NCSA 2100
 
 ## Current schedule
@@ -21,7 +22,6 @@ permalink: "/roadmap/"
 |:-------|:--------|:---------------------------:|
 
 [2016 schedule][1]
-[1]: {{ site.url }}/pages/2016roadmap.md
 
 ## Ideas for presentations
 
@@ -101,3 +101,5 @@ permalink: "/roadmap/"
    - ~~Cellular atomata~~.
    - ~~Theory of computation~~ (Turing, finite state machine, definition of language, regular expressions).
    - ~~complexity theory.~~
+
+[1]: {{ site.url }}/pages/2016roadmap.md
