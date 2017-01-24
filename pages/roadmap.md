@@ -19,6 +19,19 @@ permalink: "/roadmap/"
 |:-------|:--------|:---------------------------:|
 |Jan. 24 | Paul    | Gibbs Sampling              |
 |Jan. 31 | Matt    | Dropout Layer               |
+|Feb.  7 | Will    |                             |
+|Feb. 21 | Benji V.|                             |
+|Feb. 28 | Brian   |                             |
+|Mar.  7 | Alex M. |                             |
+|Mar. 21 | Dot     |                             |
+|Mar. 28 | Pratik  |                             |
+|Apr.  4 | Alex L. |                             |
+|Apr. 11 | Xiongjie|                             |
+|Apr. 18 | Eli     |                             |
+|Apr. 25 | Dima    |                             |
+|May.  2 | Shivesh |                             |
+|May.  9 | Ben P.  |                             |
+|May. 16 | Kiel    |                             |
 |:-------|:--------|:---------------------------:|
 
 [2016 schedule][1]
