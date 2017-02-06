@@ -18,7 +18,7 @@ permalink: "/roadmap/"
 |  Date  | Person  | Subject                     |
 |:-------|:--------|:---------------------------:|
 |Jan. 24 | Paul    | Gibbs Sampling              |
-|Feb.  7 | Matt    | Dropout Layer               |
+|Feb.  7 | Matt    | Spiking Neuro Net           |
 |Feb. 14 | Will    |                             |
 |Feb. 21 | Benji V.|                             |
 |Feb. 28 | Brian   |                             |
