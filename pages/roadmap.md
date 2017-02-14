@@ -20,7 +20,7 @@ permalink: "/roadmap/"
 |Jan. 24 | Paul    | Gibbs Sampling              |
 |Feb.  7 | Matt    | Spiking Neural Network      |
 |Feb. 14 | Will    | Reservoir Computing in Time |
-|Feb. 21 | Benji V.|                             |
+|Feb. 21 | Benji V.| Audio Compression           |
 |Feb. 28 | Brian   | Quantum/Classical Annealing |
 |Mar.  7 | Alex M. |                             |
 |Mar. 21 | Dot     |                             |
