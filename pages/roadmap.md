@@ -22,11 +22,11 @@ permalink: "/roadmap/"
 |Feb. 14 | Will    | Reservoir Computing in Time |
 |Feb. 21 | Benji V.| Audio Compression           |
 |Feb. 28 | Brian   | Quantum/Classical Annealing |
-|Mar.  7 | Alex M. |                             |
-|Mar. 21 | Dot     |                             |
-|Mar. 28 | Pratik  |                             |
-|Apr.  4 | Alex L. |                             |
-|Apr. 11 | Xiongjie|                             |
+|Mar.  7 | Xiongjie|                             |
+|Mar. 21 | Alex M. |                             |
+|Mar. 28 | Dot     |                             |
+|Apr.  4 | Pratik  |                             |
+|Apr. 11 | Alex L. |                             |
 |Apr. 18 | Eli     |                             |
 |Apr. 25 | Dima    |                             |
 |May.  2 | Shivesh |                             |
