@@ -22,16 +22,15 @@ permalink: "/roadmap/"
 |Feb. 14 | Will    | Reservoir Computing in Time |
 |Feb. 21 | Benji V.| Audio Compression           |
 |Feb. 28 | Brian   | Quantum/Classical Annealing |
-|Mar.  7 | Xiongjie|                             |
-|Mar. 21 | Alex M. |                             |
-|Mar. 28 | Dot     |                             |
+|Mar.  7 | Xiongjie| Neural Net on Tensor Train  |
+|Mar. 21 | Alex M. | Page Rank                   |
+|Mar. 28 | Ben P.  | SHA-1 Collision             |
 |Apr.  4 | Pratik  |                             |
 |Apr. 11 | Alex L. |                             |
 |Apr. 18 | Eli     |                             |
 |Apr. 25 | Dima    |                             |
 |May.  2 | Shivesh |                             |
-|May.  9 | Ben P.  |                             |
-|May. 16 | Kiel    |                             |
+|May.  9 | Kiel    |                             |
 |:-------|:--------|:---------------------------:|
 
 [2016 schedule][1]
@@ -54,9 +53,9 @@ permalink: "/roadmap/"
    - Quasi-random numbers.
    - Ant Colony Optimization
    - Parallel tempering.
-   - Simulated annealing.
    - Stochastic hill climbing.
    - Bayesian networks.
+   - ~~Simulated annealing~~
    - ~~Evolutionary, and genetics algorithms.~~
    - ~~Particle Swarm Optimization~~
    - ~~Belief propogation~~
@@ -102,7 +101,7 @@ permalink: "/roadmap/"
    - OpenMP and MPI
    - GPU, Cuda, ...
  - Computer networks/the internet.
-   - Google search bar, page rank.
+   - ~~Google search bar, page rank.~~
    - The Internet protocal suite.
    - Packet switching vs. cell-based switching.
    - Mobile networks.
