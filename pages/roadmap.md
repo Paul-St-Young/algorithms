@@ -23,13 +23,14 @@ permalink: "/roadmap/"
 |Feb. 21 | Benji V.| Audio Compression           |
 |Feb. 28 | Brian   | Quantum/Classical Annealing |
 |Mar.  7 | Xiongjie| Neural Net on Tensor Train  |
-|Mar. 21 | Alex M. | Page Rank                   |
-|Mar. 28 | Ben P.  | SHA-1 Collision             |
-|Apr.  4 | Pratik  |                             |
-|Apr. 11 | Alex L. |                             |
-|Apr. 18 | Eli     |                             |
-|Apr. 25 | Dima    |                             |
-|May.  2 | Shivesh |                             |
+|Mar. 14 | N/A     | APS March Meeting           |
+|Mar. 21 | N/A     | Spring Break                |
+|Mar. 28 | Alex M. | Page Rank                   |
+|Apr.  4 | Ben P.  | SHA-1 Collision             |
+|Apr. 11 | Pratik  |                             |
+|Apr. 18 | Alex L. |                             |
+|Apr. 25 | Eli     |                             |
+|May.  2 | Dima    |                             |
 |May.  9 | Kiel    |                             |
 |:-------|:--------|:---------------------------:|
 
