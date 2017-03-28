@@ -27,9 +27,9 @@ permalink: "/roadmap/"
 |Mar. 21 | N/A     | Spring Break                |
 |Mar. 28 | Alex M. | Page Rank                   |
 |Apr.  4 | Ben P.  | SHA-1 Collision             |
-|Apr. 11 | Pratik  |                             |
-|Apr. 18 | Alex L. |                             |
-|Apr. 25 | Eli     |                             |
+|Apr. 11 | Pratik  | Expectation Maximization    |
+|Apr. 18 | Eli     |                             |
+|Apr. 25 | Alex L. | Finite Element              |
 |May.  2 | Dima    |                             |
 |May.  9 | Kiel    |                             |
 |:-------|:--------|:---------------------------:|
@@ -66,12 +66,22 @@ permalink: "/roadmap/"
    - Cryptanalysis (breaking encryption).
    - Hashing.
  - Optimzation.
-   - Simplex method.
+   - Global Newton methods
+     - line search
+     - trust region
+     - iterative solution of linear equations
+     - matrix free
+   - Generalized minimal residual method (GMRES)
+     - preconditioning
+     - additive Schwarts
+     - Algebraic and geometric multi-grid
+     - Block Jacobi
    - Quadratic optimization.
    - Convex optmization.
-   - Compilers (fortan).
    - Steepest descent, Conjugate gradiant, Quasi-Newton, ....
    - Noisy optimization.
+   - Compilers (fortan).
+   - ~~Simplex method.~~
  - Linear Algebra.
    - Random matrix theory.
    - ~~QR / SVD. principle component analysis~~
@@ -79,7 +89,10 @@ permalink: "/roadmap/"
    - ~~Lanczos~~
    - ~~Fast Fourier transforms (FFT).~~
  - Numerical solutions to differential equations.
-   - Finite difference approach.
+   - Finite differences
+   - ~~Finite elements~~
+   - Finite volumes
+   - Spectral elements
    - PDE solvers (additional problems from multivariate)
    - Energy conserving or time-reversal invariant versions.
    - ~~Runge-Kutta and family.~~
