@@ -8,13 +8,13 @@ categories:
     - algorithm
 tags:
     - signal processing
-    - speech
     - compression
+    - speech
     - filter
 image:
-   thumb: "singing.jpeg"
+   thumb: "frequency_song.eps"
 header:
-    image_fullwidth: "backstreet_boys.jpg"
+    image_fullwidth: "fourier_song.eps"
 ---
 <!-- Page Content Starts Here -->
 
