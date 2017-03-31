@@ -48,4 +48,5 @@ In [this presentation][1], I talk about:
 [4]: http://www.ece.ucsb.edu/Faculty/Rabiner/ece259/digital%20speech%20processing%20course/lectures_new/Lecture%2013_winter_2012_6tp.pdf
 [5]: http://www.seas.ucla.edu/~ingrid/ee213a/speech/vlad_present.pdf
 [6]: http://cs.haifa.ac.il/~nimrod/Compression/Speech/S4LinearPredictionCoding2009.pdf
+[7]: {{ site.url }}/assets/slides/LPM_compress_decompress.ipynb
 
