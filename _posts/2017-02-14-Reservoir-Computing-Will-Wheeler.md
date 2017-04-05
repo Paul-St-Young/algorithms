@@ -12,7 +12,7 @@ image:
    thumb: "reservoir_computing_thumb.png"
 header:
     image_fullwidth: "reservoir.jpg"
-    caption: 
+    caption: by Jason Blackeye
 ---
 <!-- Page Content Starts Here -->
 
