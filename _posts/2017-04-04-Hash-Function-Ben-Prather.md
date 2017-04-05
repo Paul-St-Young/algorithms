@@ -31,6 +31,3 @@ In [this presentation][1], I present:
 {% include list-posts tag='pagerank' %}
 
 [1]: {{ site.url }}/assets/slides/hash_function.pdf
-[ex1]: 
-[ref1]: 
-[ref2]:

@@ -35,5 +35,3 @@ In [this presentation][1], I present:
 [ex1]: {{ site.url }}/assets/notebooks/reservoir_computing/reservoir_computing_time_delay.html
 [py1]:{{ site.url }}/assets/notebooks/reservoir_computing/ddeint.py
 [py2]:{{ site.url }}/assets/notebooks/reservoir_computing/mnist.py
-[ref1]: 
-[ref2]:
