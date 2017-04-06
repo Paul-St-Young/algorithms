@@ -29,7 +29,7 @@ In [this presentation][7], I talk about:
 
 
 ## Examples
-  * A [Jupyter notebook][1] to compress and decompress audio using an LPM [1]. Feel free to contact me if you are having trouble using or understancing this notebook.
+  * A [Jupyter notebook][1] to compress and decompress audio using an LPM. Feel free to contact me if you are having trouble using or understancing this notebook.
   * A [Jupyter notebook][2] to fourier-analyze the audio files manipulated in using the compression-decompression [notebook][2] referred to above.
   * A [.wav file][3] (me saying the English alphabet) used as a demonstration for the previous two notebooks.
 
