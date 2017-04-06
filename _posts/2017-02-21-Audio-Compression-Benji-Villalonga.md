@@ -12,9 +12,9 @@ tags:
     - speech
     - filter
 image:
-   thumb: "frequency_song.eps"
+   thumb: "frequency_song.png"
 header:
-    image_fullwidth: "fourier_song.eps"
+    image_fullwidth: "fourier_song.png"
 ---
 <!-- Page Content Starts Here -->
 
