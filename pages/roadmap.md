@@ -28,7 +28,7 @@ permalink: "/roadmap/"
 |Mar. 28 | Alex M. | Page Rank                   |
 |Apr.  4 | Ben P.  | SHA-1 Collision             |
 |Apr. 11 | Pratik  | Expectation Maximization    |
-|Apr. 18 | Eli     |                             |
+|Apr. 18 | Eli     | Markov Decision Processes   |
 |Apr. 25 | Alex L. | Finite Element              |
 |May.  2 | Dima    |                             |
 |May.  9 | Kiel    |                             |
