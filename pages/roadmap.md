@@ -30,7 +30,7 @@ permalink: "/roadmap/"
 |Apr. 11 | Pratik  | Expectation Maximization    |
 |Apr. 18 | Eli     | Markov Decision Processes   |
 |Apr. 25 | Alex L. | Finite Element              |
-|May.  2 | Dima    |                             |
+|May.  2 | Dima    | Recurrent Neural Networks   |
 |May.  9 | Kiel    |                             |
 |:-------|:--------|:---------------------------:|
 
