@@ -31,4 +31,4 @@ In [this presentation][1], I present:
 
 {% include list-posts tag='differential equations' %}
 
-[1]: {{ site.url }}/assets/slides/ODE_Presentation.pdf
+[1]: {{ site.url }}/assets/slides/relaxation_methods.odp
