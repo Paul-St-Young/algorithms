@@ -24,6 +24,8 @@ In [this presentation][1], I present:
 
 ## Examples
 
+[Notebook implementing relaxation on a 2D grid for an arbitrary charge distribution][ex1]
+
 ## References
 
 ### All Differential Equations
