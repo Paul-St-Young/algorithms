@@ -10,9 +10,9 @@ tags:
     - numerical method
     - partial differential equations
 image:
-   thumb: ".png"
+   thumb: "relaxation_iteration_59.png"
 header:
-    image_fullwidth: ".png"
+    image_fullwidth: "parallel_plate_big_source.gif"
 ---
 <!-- Page Content Starts Here -->
 
