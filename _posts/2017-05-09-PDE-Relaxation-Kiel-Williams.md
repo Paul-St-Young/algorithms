@@ -2,7 +2,7 @@
 layout: page
 title:  "Relaxation Methods in the Solution of Partial Differential Equations"
 subheadline:  'by Kiel Williams'
-teaser: "How can we use a simple conceptual approach to numerical solve a nontrivial PDE?"
+teaser: "How can we use a simple conceptual approach to numerically solve a nontrivial PDE?"
 
 categories:
     - algorithm
@@ -12,7 +12,7 @@ tags:
 image:
    thumb: "relaxation_iteration_59.png"
 header:
-    image_fullwidth: "parallel_plate_big_source.gif"
+    image_fullwidth: "parallel_plate.gif"
 ---
 <!-- Page Content Starts Here -->
 
