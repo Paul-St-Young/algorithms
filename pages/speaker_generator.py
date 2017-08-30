@@ -1,11 +1,10 @@
 #!/usr/bin/env python
 import numpy as np
 
-just_presented = ["Paul", "Dima", "Eli", "Brian","Matt"]
+just_presented = ["Paul"]
 
-names = ["Dot", "Juha", "Pratik", "Pathak", "Shivesh" 
-    ,"Alex M.","Jyoti","Ben P.","Benji C.", "Alex L."
-    , "WooYoung", "Will","Kiel", "Xiongjie"]
+names = ["Shivesh","Alex M.","Ben P.","Benji V."
+  ,"Ali","Kiel","John Lee","Dima","Eli","Brian","Matt"]
 
 shuffled_pres  = np.random.choice( just_presented,len(just_presented), replace=False )
 shuffled_names = np.random.choice( names,len(names), replace=False )

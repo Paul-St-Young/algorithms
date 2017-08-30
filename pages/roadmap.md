@@ -8,7 +8,7 @@ header:
 permalink: "/roadmap/"
 ---
 
-### Time: Tuesday 2:00 pm CST
+### Time: Tuesday 4:00 pm CST
 
 ### Location: NCSA 2100
 
@@ -17,31 +17,31 @@ permalink: "/roadmap/"
 |:-------|:--------|:---------------------------:|
 |  Date  | Person  | Subject                     |
 |:-------|:--------|:---------------------------:|
-|Jan. 24 | Paul    | Gibbs Sampling              |
-|Feb.  7 | Matt    | Spiking Neural Network      |
-|Feb. 14 | Will    | Reservoir Computing in Time |
-|Feb. 21 | Benji V.| Audio Compression           |
-|Feb. 28 | Brian   | Quantum/Classical Annealing |
-|Mar.  7 | Xiongjie| Neural Net on Tensor Train  |
-|Mar. 14 | N/A     | APS March Meeting           |
-|Mar. 21 | N/A     | Spring Break                |
-|Mar. 28 | Alex M. | Page Rank                   |
-|Apr.  4 | Ben P.  | SHA-1 Collision             |
-|Apr. 11 | Pratik  | Expectation Maximization    |
-|Apr. 18 | Eli     | Markov Decision Processes   |
-|Apr. 25 | Alex L. | Finite Element              |
-|May.  2 | Dima    | Recurrent Neural Networks   |
-|May.  9 | Kiel    |                             |
+|Sep.  5 | Eli     | Random Satisfiability       |
+|Sep. 12 | Paul    | Marching Cubes              |
+|Sep. 19 | Brian   |                             |
+|Sep. 26 | Matt Z. |                             |
+|Oct.  3 | Shivesh |                             |
+|Oct. 10 | John Lee|                             |
+|Oct. 17 | Dima    |                             |
+|Oct. 24 | Ali     |                             |
+|Oct. 31 | Benji V.|                             |
+|Nov.  7 | Ben P.  |                             |
+|Nov. 14 | Alex M. |                             |
+|Nov. 21 |         |                             |
+|Nov. 28 |         |                             |
+|Dec.  5 |         |                             |
+|Dec.  12|         |                             |
 |:-------|:--------|:---------------------------:|
 
 [2016 schedule][1]
+[2017sp schedule][2]
 
 ## Ideas for presentations
 
  - Machine learning.
    - Back propogation.
    - Clustering.
-   - High dimensional visualization.
    - ~~Boltzmann machine.~~
  - Control theory and signal processing.
    - Model reduction.
@@ -103,6 +103,8 @@ permalink: "/roadmap/"
  - Image Processing
    - Image recognition
    - ~~Automatic focus~~
+ - Visualization
+   - ~~Marching Cubes~~
  - Quantum computing.
    - Quantum annealing.
    - Quantum error correction.
@@ -128,4 +130,5 @@ permalink: "/roadmap/"
    - ~~Theory of computation~~ (Turing, finite state machine, definition of language, regular expressions).
    - ~~complexity theory.~~
 
-[1]: {{ site.url }}/pages/roadmap/2016
+[1]: {{ site.url }}/pages/roadmap/2016roadmap.md
+[2]: {{ site.url }}/pages/roadmap/2017roadmap.md
