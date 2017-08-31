@@ -24,10 +24,10 @@ permalink: "/roadmap/"
 |Oct.  3 | Shivesh |                             |
 |Oct. 10 | John Lee|                             |
 |Oct. 17 | Dima    |                             |
-|Oct. 24 | Ali     |                             |
+|Oct. 24 | Alex M. |                             |
 |Oct. 31 | Benji V.|                             |
 |Nov.  7 | Ben P.  |                             |
-|Nov. 14 | Alex M. |                             |
+|Nov. 14 | Ali     | Quantum Error Correction    |
 |Nov. 21 |         |                             |
 |Nov. 28 |         |                             |
 |Dec.  5 |         |                             |
@@ -130,5 +130,5 @@ permalink: "/roadmap/"
    - ~~Theory of computation~~ (Turing, finite state machine, definition of language, regular expressions).
    - ~~complexity theory.~~
 
-[1]: {{ site.url }}/pages/roadmap/2016roadmap.md
-[2]: {{ site.url }}/pages/roadmap/2017roadmap.md
+[1]: {{ site.url }}/pages/2016roadmap.md
+[2]: {{ site.url }}/pages/2017roadmap.md
