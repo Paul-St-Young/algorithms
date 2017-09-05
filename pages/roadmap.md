@@ -22,7 +22,7 @@ permalink: "/roadmap/"
 |Sep. 19 | Brian   |                             |
 |Sep. 26 | Matt Z. |                             |
 |Oct.  3 | Shivesh |                             |
-|Oct. 10 | John Lee|                             |
+|Oct. 10 |         |                             |
 |Oct. 17 | Dima    |                             |
 |Oct. 24 | Alex M. |                             |
 |Oct. 31 | Benji V.|                             |
