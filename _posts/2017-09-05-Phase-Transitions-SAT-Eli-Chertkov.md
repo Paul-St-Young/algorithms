@@ -12,7 +12,7 @@ tags:
     - computational complexity
     - NP-complete
 image:
-   thumb: "unsplash_brooklyn-bridge-thumb.jpg"
+   thumb: "sat.png"
 header:
     image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
     caption: This is a caption for the header image with link
@@ -23,9 +23,15 @@ header:
 ## Presentation Slides
 [link][1] to pdf 
 
+## References
+  * phase transitions [term paper][paper]
+  * [review][thumb]
+
 ###  All Signal Processing
 {: .t60 }
 
 {% include list-posts tag='signal processing' %}
 
 [1]: {{ site.url }}/assets/slides/PhaseTransitionsSAT.pdf
+[paper]: http://guava.physics.uiuc.edu/~nigel/courses/563/Essays_2017/PDF/chertkov.pdf
+[thumb]: https://cacm.acm.org/magazines/2009/8/34498-boolean-satisfiability-from-theoretical-hardness-to-practical-success/fulltext
