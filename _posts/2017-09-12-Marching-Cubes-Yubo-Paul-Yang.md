@@ -2,7 +2,7 @@
 layout: page
 title:  "Marching Cubes"
 subheadline:  "by Yubo 'Paul' Yang"
-teaser: "Marching cubes is a Classic algorithm for isosurface extraction. It utilizes efficient table lookups to turn a 2D isosurface of 3D volumetric data into a collection of triangles. Although marching cubes is a dated algorithm, it still demonstrates much of the concepts behind modern rendering approaches."
+teaser: "Marching cubes is a Classic algorithm for isosurface extraction. It utilizes efficient table lookups to extract a 2D isosurface from 3D volumetric data. The isosurface is represented in terms of a collection of triangles, which are easily rendered by graphics hardware. Although marching cubes is a rather dated algorithm, it demonstrates much of the concepts behind modern rendering approaches."
 
 categories:
     - algorithm
@@ -28,7 +28,7 @@ In [this presentation][1], I present:
   * [example 3][ex3]: Hatree-Fock orbitals/electron density from PySCF
 
 ## References
-  * [Polygonising a scalar field][ref1], Oaul Bourke
+  * [Polygonising a scalar field][ref1], Paul Bourke
   * [Smooth Voxel Terrain][ref2], Mikola Lysenko
   * [Constrained Elastic Surface Nets][ref3], Sarah Gibson
 
@@ -38,9 +38,9 @@ In [this presentation][1], I present:
 {% include list-posts tag='visualization' %}
 
 [1]: {{ site.url }}/assets/slides/marching_cubes.pdf
-[ex1]: https://github.com/Paul-St-Young/share/tree/master/algorithms/iso3d/basis
+[ex1]: https://github.com/Paul-St-Young/share/tree/master/algorithms/iso3d/simplest
 [ex2]: https://github.com/Paul-St-Young/share/tree/master/algorithms/iso3d/basis
-[ex3]: https://github.com/Paul-St-Young/share/tree/master/algorithms/iso3d/chf
+[ex3]: https://github.com/Paul-St-Young/share/tree/master/algorithms/iso3d/hf
 [ref1]:http://paulbourke.net/geometry/polygonise/
 [ref2]:https://0fps.net/2012/07/12/smooth-voxel-terrain-part-2/
 [ref3]:http://www.merl.com/publications/docs/TR99-24.pdf
