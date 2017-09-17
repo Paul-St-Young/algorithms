@@ -19,8 +19,8 @@ permalink: "/roadmap/"
 |:-------|:--------|:---------------------------:|
 |Sep.  5 | Eli     | Random Satisfiability       |
 |Sep. 12 | Paul    | Marching Cubes              |
-|Sep. 19 | Brian   |                             |
-|Sep. 26 | Matt Z. |                             |
+|Sep. 19 | Brian   | Stimulated Annealing II     |
+|Sep. 26 | Matt Z. | Word Vector                 |
 |Oct.  3 | Shivesh |                             |
 |Oct. 10 |         |                             |
 |Oct. 17 | Dima    |                             |
