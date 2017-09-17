@@ -22,10 +22,10 @@ permalink: "/roadmap/"
 |Sep. 19 | Brian   | Stimulated Annealing II     |
 |Sep. 26 | Matt Z. | Word Vector                 |
 |Oct.  3 | Shivesh |                             |
-|Oct. 10 |         |                             |
+|Oct. 10 | Benji V.|                             |
 |Oct. 17 | Dima    |                             |
 |Oct. 24 | Alex M. |                             |
-|Oct. 31 | Benji V.|                             |
+|Oct. 31 |         |                             |
 |Nov.  7 | Ben P.  |                             |
 |Nov. 14 | Ali     | Quantum Error Correction    |
 |Nov. 21 |         |                             |
