@@ -21,7 +21,7 @@ permalink: "/roadmap/"
 |Sep. 12 | Paul    | Marching Cubes              |
 |Sep. 19 | Brian   | Stimulated Annealing II     |
 |Sep. 26 | Matt Z. | Word Vector                 |
-|Oct.  3 | Shivesh |                             |
+|Oct.  3 |         |                             |
 |Oct. 10 | Benji V.|                             |
 |Oct. 17 | Dima    |                             |
 |Oct. 24 | Alex M. |                             |
