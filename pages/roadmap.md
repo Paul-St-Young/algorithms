@@ -23,12 +23,12 @@ permalink: "/roadmap/"
 |Sep. 26 | Matt Z. | Word Vector                 |
 |Oct.  3 |         |                             |
 |Oct. 10 | Benji V.|                             |
-|Oct. 17 | Dima    |                             |
+|Oct. 17 | Shivesh |                             |
 |Oct. 24 | Alex M. |                             |
 |Oct. 31 |         |                             |
-|Nov.  7 | Ben P.  |                             |
+|Nov.  7 | Dima    |                             |
 |Nov. 14 | Ali     | Quantum Error Correction    |
-|Nov. 21 |         |                             |
+|Nov. 21 | Ben P.  |                             |
 |Nov. 28 |         |                             |
 |Dec.  5 |         |                             |
 |Dec.  12|         |                             |
