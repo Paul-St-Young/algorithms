@@ -22,7 +22,7 @@ permalink: "/roadmap/"
 |Sep. 19 | Brian   | Stimulated Annealing II     |
 |Sep. 26 | Matt Z. | Word Vector                 |
 |Oct.  3 |         |                             |
-|Oct. 10 | Benji V.|                             |
+|Oct. 10 | Benji V.| Speech Enhancement          |
 |Oct. 17 | Shivesh |                             |
 |Oct. 24 | Alex M. |                             |
 |Oct. 31 |         |                             |
