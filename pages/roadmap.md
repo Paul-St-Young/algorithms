@@ -23,9 +23,9 @@ permalink: "/roadmap/"
 |Sep. 26 | Matt Z. | Word Vector                 |
 |Oct.  3 |         |                             |
 |Oct. 10 | Benji V.| Speech Enhancement          |
-|Oct. 17 | Shivesh |                             |
+|Oct. 17 | Shivesh | Clustering                  |
 |Oct. 24 | Alex M. |                             |
-|Oct. 31 |         |                             |
+|Oct. 31 | Juha    | Partial Wave Decomposition  |
 |Nov.  7 | Dima    |                             |
 |Nov. 14 | Ali     | Quantum Error Correction    |
 |Nov. 21 | Ben P.  |                             |
