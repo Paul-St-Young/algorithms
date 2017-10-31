@@ -26,11 +26,11 @@ permalink: "/roadmap/"
 |Oct. 17 | Shivesh | Clustering                  |
 |Oct. 24 |         |                             |
 |Oct. 31 | Juha    | Partial Wave Decomposition  |
-|Nov.  7 | Dima    |                             |
+|Nov.  7 | Dima    | Regularization in Neural Net|
 |Nov. 14 | Ali     | Quantum Error Correction    |
-|Nov. 21 | Ben P.  |                             |
-|Nov. 28 |         |                             |
-|Dec.  5 |         |                             |
+|Nov. 21 | N/A     | Fall Break                  |
+|Nov. 28 | Ben P.  |                             |
+|Dec.  5 | Alex M. |                             |
 |Dec.  12|         |                             |
 |:-------|:--------|:---------------------------:|
 
