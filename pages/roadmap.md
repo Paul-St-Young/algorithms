@@ -27,11 +27,11 @@ permalink: "/roadmap/"
 |Oct. 24 |         |                             |
 |Oct. 31 | Juha    | Partial Wave Decomposition  |
 |Nov.  7 | Dima    | Regularization in Neural Net|
-|Nov. 14 | Ali     | Quantum Error Correction    |
+|Nov. 14 | N/A     | CES Workshop                |
 |Nov. 21 | N/A     | Fall Break                  |
 |Nov. 28 | Ben P.  |                             |
-|Dec.  5 | Alex M. |                             |
-|Dec.  12|         |                             |
+|Nov. 14 | Ali     | Quantum Error Correction    |
+|Dec. 12 | Alex M. |                             |
 |:-------|:--------|:---------------------------:|
 
 [2016 schedule][1]
