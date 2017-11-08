@@ -29,7 +29,7 @@ permalink: "/roadmap/"
 |Nov.  7 | Dima    | Regularization in Neural Net|
 |Nov. 14 | N/A     | CES Workshop                |
 |Nov. 21 | N/A     | Fall Break                  |
-|Nov. 28 | Ben P.  |                             |
+|Nov. 28 | Ben P.  | Recursive Bitmap            |
 |Nov. 14 | Ali     | Quantum Error Correction    |
 |Dec. 12 | Alex M. |                             |
 |:-------|:--------|:---------------------------:|
