@@ -30,8 +30,7 @@ permalink: "/roadmap/"
 |Nov. 14 | N/A     | CES Workshop                |
 |Nov. 21 | N/A     | Fall Break                  |
 |Nov. 28 | Ben P.  | Recursive Bitmap            |
-|Nov. 14 | Ali     | Quantum Error Correction    |
-|Dec. 12 | Alex M. |                             |
+|Dec.  5 | Ali     | Quantum Error Correction    |
 |:-------|:--------|:---------------------------:|
 
 [2016 schedule][1]
