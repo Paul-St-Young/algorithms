@@ -8,7 +8,7 @@ header:
 permalink: "/roadmap/"
 ---
 
-### Time: Tuesday 4:00 pm CST
+### Time: Friday 5:00 pm CST once in two weeks
 
 ### Location: NCSA 2100
 
@@ -17,25 +17,21 @@ permalink: "/roadmap/"
 |:-------|:--------|:---------------------------:|
 |  Date  | Person  | Subject                     |
 |:-------|:--------|:---------------------------:|
-|Sep.  5 | Eli     | Random Satisfiability       |
-|Sep. 12 | Paul    | Marching Cubes              |
-|Sep. 19 | Brian   | Stimulated Annealing II     |
-|Sep. 26 | Matt Z. | Word Vector                 |
-|Oct.  3 |         |                             |
-|Oct. 10 | Benji V.| Speech Enhancement          |
-|Oct. 17 | Shivesh | Clustering                  |
-|Oct. 24 |         |                             |
-|Oct. 31 | Juha    | Partial Wave Decomposition  |
-|Nov.  7 | Dima    | Regularization in Neural Net|
-|Nov. 14 | N/A     | CES Workshop                |
-|Nov. 21 | N/A     | Fall Break                  |
-|Nov. 28 | Ben P.  | Recursive Bitmap            |
-|Dec.  5 | Ali     | Quantum Error Correction    |
+|Jan. 26 |   |     |
+|Feb.  9 |   |     |
+|Feb. 23 | Dima    | |
+|Mar.  9 | N/A     | APS March Meeting           |
+|Mar. 23 |         |                             |
+|Apr.  6 | Brian B.| |
+|Apr. 20 | Matt Z. | |
+|May.  4 |         |                             |
 |:-------|:--------|:---------------------------:|
 
 [2016 schedule][1]
 
 [2017sp schedule][2]
+
+[2017fa schedule][3]
 
 ## Ideas for presentations
 
@@ -131,4 +127,5 @@ permalink: "/roadmap/"
    - ~~complexity theory.~~
 
 [1]: {{ site.url }}/pages/2016roadmap.md
-[2]: {{ site.url }}/pages/2017roadmap.md
+[2]: {{ site.url }}/pages/2017sp_roadmap.md
+[3]: {{ site.url }}/pages/2017fa_roadmap.md
