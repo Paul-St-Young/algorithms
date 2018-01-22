@@ -16,7 +16,7 @@ widget2:
   title: "Schedule"
   url: "http://paul-st-young.github.io/algorithms/roadmap/"
   image: wheel.jpg
-  text: 'We meet every Tuesday from 4:00-5:00 pm CST in NCSA 2100.'
+  text: 'We meet every other Friday from 5:00-6:00 pm CST in NCSA 2100.'
 widget3:
   title: "Archive"
   url: 'http://paul-st-young.github.io/algorithms/blog/archive'
