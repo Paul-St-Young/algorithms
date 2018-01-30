@@ -8,23 +8,23 @@ header:
 permalink: "/roadmap/"
 ---
 
-### Time: Friday 5:00 pm CST once in two weeks
+### Time: Thursday 5:00 pm CST once in two weeks
 
 ### Location: NCSA 2100
 
-## Current schedule
+## Current schedule (2018 Spring)
 
 |:-------|:--------|:---------------------------:|
 |  Date  | Person  | Subject                     |
 |:-------|:--------|:---------------------------:|
-|Jan. 26 |   |     |
-|Feb.  9 |   |     |
-|Feb. 23 | Dima    | |
-|Mar.  9 | N/A     | APS March Meeting           |
-|Mar. 23 |         |                             |
-|Apr.  6 | Brian B.| |
-|Apr. 20 | Matt Z. | |
-|May.  4 |         |                             |
+|Jan. 26 | Paul    |          Meltdown           |
+|Feb.  8 |   |     |
+|Feb. 22 | Dima    | |
+|Mar.  8 | N/A     |      APS March Meeting      |
+|Mar. 22 |         |                             |
+|Apr.  5 | Brian B.| |
+|Apr. 19 | Matt Z. | |
+|May.  3 |         |                             |
 |:-------|:--------|:---------------------------:|
 
 [2016 schedule][1]
