@@ -18,13 +18,13 @@ permalink: "/roadmap/"
 |  Date  | Person  | Subject                     |
 |:-------|:--------|:---------------------------:|
 |Jan. 26 | Paul    |          Meltdown           |
-|Feb.  8 |   |     |
+|Feb.  8 | Kiel    |    Dijkstra's algorithm     |
 |Feb. 22 | Dima    | |
 |Mar.  8 | N/A     |      APS March Meeting      |
 |Mar. 22 |         |                             |
 |Apr.  5 | Brian B.| |
 |Apr. 19 | Matt Z. | |
-|May.  3 |         |                             |
+|May.  3 | Eli     |                             |
 |:-------|:--------|:---------------------------:|
 
 [2016 schedule][1]
