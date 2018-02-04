@@ -22,8 +22,8 @@ permalink: "/roadmap/"
 |Feb. 22 | Dima    | |
 |Mar.  8 | N/A     |      APS March Meeting      |
 |Mar. 22 |         |                             |
-|Apr.  5 | Brian B.| |
-|Apr. 19 | Matt Z. | |
+|Apr.  5 | Brian B.|      The GNU Compiler       |
+|Apr. 19 | Matt Z. |   Reinforcement Learning    |
 |May.  3 | Eli     |                             |
 |:-------|:--------|:---------------------------:|
 
