@@ -32,5 +32,5 @@ In [these slides][1], I present:
 {% include list-posts tag='graph theory' %}
 
 [1]: {{ site.url }}/assets/slides/kiel_dijkstra.pdf
-[ex1]: {{ site.url }}/assets/notebook/dijkstra_alg.html
-[ex1nb]: {{ site.url }}/assets/notebook/dijkstra_alg.ipynb
+[ex1]: {{ site.url }}/assets/notebooks/dijkstra_alg.html
+[ex1nb]: {{ site.url }}/assets/notebooks/dijkstra_alg.ipynb
