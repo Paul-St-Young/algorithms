@@ -29,10 +29,10 @@ In [this notebook][1], I present:
   * [original paper][orig]
   * [cripy faces][face]
 
-### All Graph Theory
+### All Machine Learning
 {: .t60 }
 
-{% include list-posts tag='graph theory' %}
+{% include list-posts tag='machine learning' %}
 
 [1]: {{ site.url }}/assets/notebooks/gans/gans.html
 [orig]: https://arxiv.org/pdf/1406.2661.pdf
