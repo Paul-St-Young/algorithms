@@ -20,7 +20,7 @@ permalink: "/roadmap/"
 |Jan. 26 | Paul    |          Meltdown           |
 |Feb.  8 | Kiel    |    Dijkstra's algorithm     |
 |Feb. 22 | Dima    | Generative Adversarial Net. |
-|Mar. 15 | Alina   | |
+|Mar. 15 | Alina   |       Edge Detection        |
 |Apr.  5 | Brian B.|      The GNU Compiler       |
 |Apr. 19 | Matt Z. |   Reinforcement Learning    |
 |May.  3 | Eli     |                             |
