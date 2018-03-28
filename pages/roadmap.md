@@ -21,7 +21,7 @@ permalink: "/roadmap/"
 |Feb.  8 | Kiel    |    Dijkstra's algorithm     |
 |Feb. 22 | Dima    | Generative Adversarial Net. |
 |Mar. 15 | Alina   |       Edge Detection        |
-|Apr.  5 | Brian B.|      The GNU Compiler       |
+|Apr.  5 | Brian B.| BK tree (fuzzy text matching) |
 |Apr. 19 | Matt Z. |   Reinforcement Learning    |
 |May.  3 | Eli     |                             |
 |:-------|:--------|:---------------------------:|
