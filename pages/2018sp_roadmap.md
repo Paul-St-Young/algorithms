@@ -8,23 +8,22 @@ header:
 permalink: "/roadmap/"
 ---
 
-### Time: Thursday 1:00 pm CST once in two weeks
+### Time: Thursday 5:00 pm CST once in two weeks
 
-### Location: Loomis 322
+### Location: NCSA 2100
 
-## Current schedule (2019 Spring)
+## Current schedule (2018 Spring)
 
 |:-------|:--------|:---------------------------:|
 |  Date  | Person  | Subject                     |
 |:-------|:--------|:---------------------------:|
-|Jan. 17 | Paul    |          Kriging            |
-|Jan. 31 | Ryan    |   |
-|Feb. 14 | Eli     |   |
-|Feb. 28 | Dima    |   |
-|Mar. 14 | Matt    |   |
-|Mar. 28 | Brian   |   |
-|Apr. 11 | Alina   |   |
-|Apr. 25 |   |   |
+|Jan. 26 | Paul    |          Meltdown           |
+|Feb.  8 | Kiel    |    Dijkstra's algorithm     |
+|Feb. 22 | Dima    | Generative Adversarial Net. |
+|Mar. 15 | Alina   |       Edge Detection        |
+|Apr.  5 | Brian B.| BK tree (fuzzy text matching) |
+|Apr. 19 | Matt Z. |   Reinforcement Learning    |
+|May.  3 | Eli     |                             |
 |:-------|:--------|:---------------------------:|
 
 [2016 schedule][1]
@@ -32,8 +31,6 @@ permalink: "/roadmap/"
 [2017sp schedule][2]
 
 [2017fa schedule][3]
-
-[2018sp schedule][4]
 
 ## Ideas for presentations
 
@@ -131,4 +128,3 @@ permalink: "/roadmap/"
 [1]: {{ site.url }}/pages/2016roadmap.md
 [2]: {{ site.url }}/pages/2017sp_roadmap.md
 [3]: {{ site.url }}/pages/2017fa_roadmap.md
-[4]: {{ site.url }}/pages/2018sp_roadmap.md
