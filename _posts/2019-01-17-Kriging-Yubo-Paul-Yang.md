@@ -2,17 +2,19 @@
 layout: page
 title:  "Kriging"
 subheadline:  "by Yubo 'Paul' Yang"
-teaser: "Kriging is an interpolation method. Kriging provides confidence interval to its predictions. Kriging works by minimizing the variance of the prediction error over existing data."
+teaser: "Kriging is an interpolation method that provides confidence interval to its predictions.
+Kriging works by minimizing the variance of the prediction error over existing data."
 
 categories:
     - algorithm
 tags:
-    - signal processing, machine learning
+    - signal processing
+    - machine learning
 image:
    thumb: "okrig-nsin.png"
 header:
-    image_fullwidth: "meltdown-spectre.png"
-    caption: https://granicus.com/blog/spectre-meltdown-impact
+    image_fullwidth: "ales-krivec-landscape.jpg"
+    caption: Photo by Ales Krivec on Unsplash
 ---
 <!-- Page Content Starts Here -->
 
@@ -31,10 +33,10 @@ In [this presentation][1], I present:
   * [Ordinary Kriging][ref2]
   * [Gaussian Process for Machine Learning][ref3], C. E. Rasmussen and C. K. I. Williams 2006
 
-### All Security
+### All Signal Processing
 {: .t60 }
 
-{% include list-posts tag='security' %}
+{% include list-posts tag='signal processing' %}
 
 [1]:   {{ site.url }}/assets/slides/kriging.pdf
 [ex1]: {{ site.url }}/assets/codes/kriging/okrig.py
