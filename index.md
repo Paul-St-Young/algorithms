@@ -11,7 +11,7 @@ widget1:
   title: "Blog"
   url: 'http://paul-st-young.github.io/algorithms/blog/'
   image: news.jpg
-  text: 'Every week, one of us will learn an algorithm, present and leave a brief summay at this altar.'
+  text: 'Every other week, one of us will learn an algorithm, present and upload a brief summay.'
 widget2:
   title: "Schedule"
   url: "http://paul-st-young.github.io/algorithms/roadmap/"

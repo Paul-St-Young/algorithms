@@ -19,7 +19,7 @@ header:
 <!-- Page Content Starts Here -->
 
 ## Presentation Summary
-In [this presentation][1], I present:
+In [these slides][1], I present:
 
   * Basic idea behind the kriging algorithm.
   * Implementation of ordinary kriging applied to 1D interpolation.
