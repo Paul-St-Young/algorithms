@@ -18,7 +18,7 @@ permalink: "/roadmap/"
 |  Date  | Person  | Subject                     |
 |:-------|:--------|:---------------------------:|
 |Jan. 17 | Paul    |          Kriging            |
-|Jan. 31 | Ryan    |   |
+|Jan. 31 | Ryan    |       Randomized SVD        |
 |Feb. 14 | Eli     |   |
 |Feb. 28 | Dima    |   |
 |Mar. 14 | Matt    |   |
