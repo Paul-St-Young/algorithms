@@ -19,8 +19,8 @@ permalink: "/roadmap/"
 |:-------|:--------|:---------------------------:|
 |Jan. 17 | Paul    |          Kriging            |
 |Jan. 31 | Ryan    |       Randomized SVD        |
-|Feb. 14 | Eli     |   |
-|Feb. 28 | Dima    |   |
+|Feb. 14 | Eli     | Spectral Embedding and Clustering |
+|Feb. 28 | Chris   |   Reinforcement Learning    |
 |Mar. 14 | Matt    |   |
 |Mar. 28 | Brian   |   |
 |Apr. 11 | Alina   |   |
