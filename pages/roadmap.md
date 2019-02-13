@@ -35,6 +35,20 @@ permalink: "/roadmap/"
 
 [2018sp schedule][4]
 
+## Speaker Guidelines
+
+**TL;DR** Do unto others as you would have them do unto you.
+
+At minimum, an AIG presenter should prepare a few slides and an example code.
+  1. The slides should explain:
+    - what the algorithm is
+    - how a minimum example works
+    - why the algorithm might be practically useful
+  2. A code that demonstrates the simplest problem the algorithm solves.
+  3. Make a pull-request (PR) to the [website repository][repo] to make your presentation and code eternal. Follow instructions in the README.md file.
+
+The presentation should be 30-50 min if given without interruptions. Interactive elements are encouraged. e.g. a Jupyter notebook demo. with tweakable parameters given by the audience.
+
 ## Ideas for presentations
 
  - Machine learning.
@@ -132,3 +146,4 @@ permalink: "/roadmap/"
 [2]: {{ site.url }}/pages/2017sp_roadmap.md
 [3]: {{ site.url }}/pages/2017fa_roadmap.md
 [4]: {{ site.url }}/pages/2018sp_roadmap.md
+[repo]: https://github.com/Paul-St-Young/algorithms
