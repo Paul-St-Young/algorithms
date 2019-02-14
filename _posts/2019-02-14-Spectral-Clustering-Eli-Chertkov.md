@@ -37,7 +37,7 @@ In [these slides][1], I present:
 
 {% include list-posts tag='signal processing' %}
 
-[1]:    {{ site.url }}/assets/slides/SpectralEmbedding.pdf
+[1]:    {{ site.url }}/assets/slides/SpectralClustering.pdf
 [script]: {{ site.url }}/assets/codes/spectralclustering/algorithms.py
 [ex1]:  {{ site.url }}/assets/notebooks/spectral_embedding_toy.ipynb
 [ex1h]:  {{ site.url }}/assets/notebooks/spectral_embedding_toy.html
