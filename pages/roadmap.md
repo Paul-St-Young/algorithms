@@ -24,7 +24,7 @@ permalink: "/roadmap/"
 |Mar. 14 | Matt    |   |
 |Mar. 28 | Brian   |   |
 |Apr. 11 | Alina   |   |
-|Apr. 25 |   |   |
+|Apr. 25 | Will Wei|   |
 |:-------|:--------|:---------------------------:|
 
 [2016 schedule][1]
