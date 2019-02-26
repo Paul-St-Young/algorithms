@@ -20,7 +20,7 @@ permalink: "/roadmap/"
 |Jan. 17 | Paul    |          Kriging            |
 |Jan. 31 | Ryan    |       Randomized SVD        |
 |Feb. 14 | Eli     | Spectral Embedding and Clustering |
-|Feb. 28 | Chris   |   Reinforcement Learning    |
+|Feb. 28 | Chris   | Markov Decision Process and Reinforcement Learning |
 |Mar. 14 | Matt    |   |
 |Mar. 28 | Brian   |   |
 |Apr. 11 | Alina   |   |
