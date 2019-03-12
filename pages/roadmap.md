@@ -21,7 +21,7 @@ permalink: "/roadmap/"
 |Jan. 31 | Ryan    |       Randomized SVD        |
 |Feb. 14 | Eli     | Spectral Embedding and Clustering |
 |Feb. 28 | Chris   | Markov Decision Process and Reinforcement Learning |
-|Mar. 14 | Matt    |   |
+|Mar. 14 | Matt    |   The Art of O(1) Lookup    |
 |Mar. 28 | Brian   |   |
 |Apr. 11 | Alina   |   |
 |Apr. 25 | Will Wei|   |
