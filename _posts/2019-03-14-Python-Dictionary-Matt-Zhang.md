@@ -14,7 +14,7 @@ image:
    thumb: "dictionary.jpg"
 header:
     image_fullwidth: "dictionary.jpg"
-    caption: Spectral clustering of a toy dataset with four clusters.
+    caption: A life without dictionaries is not worth living.
 ---
 <!-- Page Content Starts Here -->
 
