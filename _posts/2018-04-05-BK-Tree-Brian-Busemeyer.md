@@ -25,7 +25,7 @@ The algorithm only requires that a proper metric is defined for the set, and wor
 ## Examples
 [My BK Tree implementation][2].
 
-### All signal processing.
+### All optimization.
 {: .t60 }
 
 {% include list-posts tag='optimization' %}
