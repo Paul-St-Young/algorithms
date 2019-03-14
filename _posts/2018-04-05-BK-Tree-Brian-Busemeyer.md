@@ -9,9 +9,9 @@ categories:
 tags:
     - optimization 
 image:
-   thumb: "bk_circle.png"
+   thumb: "bktree.png"
 header:
-    image_fullwidth: "bk_circle.png"
+    image_fullwidth: "bktree.png"
     caption: own work
 ---
 <!-- Page Content Starts Here -->
