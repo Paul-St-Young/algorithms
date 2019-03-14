@@ -8,22 +8,23 @@ header:
 permalink: "/roadmap/"
 ---
 
-### Time: Thursday 5:00 pm CST once in two weeks
+### Time: Thursday 1:00 pm CST once in two weeks
 
-### Location: NCSA 2100
+### Location: Loomis 322
 
-## Current schedule (2018 Spring)
+## Current schedule (2019 Spring)
 
 |:-------|:--------|:---------------------------:|
 |  Date  | Person  | Subject                     |
 |:-------|:--------|:---------------------------:|
-|Jan. 26 | Paul    |          Meltdown           |
-|Feb.  8 | Kiel    |    Dijkstra's algorithm     |
-|Feb. 22 | Dima    | Generative Adversarial Net. |
-|Mar. 15 | Alina   |       Edge Detection        |
-|Apr.  5 | Brian B.| BK tree (fuzzy text matching) |
-|Apr. 19 | Matt Z. |   Reinforcement Learning    |
-|May.  3 | Eli     |                             |
+|Jan. 17 | Paul    |          Kriging            |
+|Jan. 31 | Ryan    |       Randomized SVD        |
+|Feb. 14 | Eli     | Spectral Embedding and Clustering |
+|Feb. 28 | Chris   | Markov Decision Process and Reinforcement Learning |
+|Mar. 14 | Matt    |   The Art of O(1) Lookup    |
+|Mar. 28 | Brian   |      Kernal Regression      |
+|Apr. 11 | Alina   |   |
+|Apr. 25 | Will Wei|   |
 |:-------|:--------|:---------------------------:|
 
 [2016 schedule][1]
@@ -31,6 +32,22 @@ permalink: "/roadmap/"
 [2017sp schedule][2]
 
 [2017fa schedule][3]
+
+[2018sp schedule][4]
+
+## Speaker Guidelines
+
+**TL;DR** Do unto others as you would have them do unto you.
+
+At minimum, an AIG presenter should prepare a few slides and an example code.
+  1. The slides should explain:
+    - what the algorithm is
+    - how a minimum example works
+    - why the algorithm might be practically useful
+  2. A code that demonstrates the simplest problem the algorithm solves.
+  3. Make a pull-request (PR) to the [website repository][repo] to make your presentation and code eternal. Follow instructions in the README.md file.
+
+The presentation should be 30-50 min if given without interruptions. Interactive elements are encouraged. e.g. a Jupyter notebook demo. with tweakable parameters given by the audience.
 
 ## Ideas for presentations
 
@@ -128,3 +145,5 @@ permalink: "/roadmap/"
 [1]: {{ site.url }}/pages/2016roadmap.md
 [2]: {{ site.url }}/pages/2017sp_roadmap.md
 [3]: {{ site.url }}/pages/2017fa_roadmap.md
+[4]: {{ site.url }}/pages/2018sp_roadmap.md
+[repo]: https://github.com/Paul-St-Young/algorithms

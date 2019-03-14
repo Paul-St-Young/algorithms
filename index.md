@@ -11,12 +11,12 @@ widget1:
   title: "Blog"
   url: 'http://paul-st-young.github.io/algorithms/blog/'
   image: news.jpg
-  text: 'Every week, one of us will learn an algorithm, present and leave a brief summay at this altar.'
+  text: 'Every other week, one of us will learn an algorithm, present and upload a brief summay.'
 widget2:
   title: "Schedule"
   url: "http://paul-st-young.github.io/algorithms/roadmap/"
   image: wheel.jpg
-  text: 'We meet every other Thusday from 5:00-6:00 pm CST in NCSA 2100.'
+  text: 'We meet every other Thusday from 1:00-2:00 pm CST in Loomis 322.'
 widget3:
   title: "Archive"
   url: 'http://paul-st-young.github.io/algorithms/blog/archive'

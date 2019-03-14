@@ -6,9 +6,9 @@
   4. Upload your graphics (if any) to the "images" folder, they can be used as the main picture or thumbnail of your post.
   5. Upload your jupyter notebooks (if any) to the "assets/notebooks" folder.
 
-## Schedule (4:30 pm, Loomis 322)
+## Schedule
 
-For recent schedule, see [Logistics](http://paul-st-young.github.io/algorithms/roadmap/)
+For current schedule, see [Logistics](http://paul-st-young.github.io/algorithms/roadmap/).
 
 ## Ideas for presentations
 
