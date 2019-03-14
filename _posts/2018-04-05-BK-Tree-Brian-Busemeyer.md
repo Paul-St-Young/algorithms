@@ -31,5 +31,5 @@ The algorithm only requires that a proper metric is defined for the set, and wor
 {% include list-posts tag='optimization' %}
 
 [1]: {{ site.url }}/assets/slides/bktree.pdf
-[2]: {{ site.url }}/assets/codes/bktree.ipynb
+[2]: {{ site.url }}/assets/codes/bktree.py
 
