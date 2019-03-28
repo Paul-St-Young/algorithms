@@ -10,7 +10,7 @@ from math import ceil
 
 def main():
   ''' Do something! '''
-  test_insert()
+  test_remove()
 
 ### Testing and example suite ################################
 
@@ -49,7 +49,7 @@ def test_scan(size=3,ninsert=25):
   tree.make_pydot_graph()
   print(tree.serialize())
 
-def test_remove(size=3,ninsert=40):
+def test_remove(size=4,ninsert=40):
   ''' Test insertions by adding a bunch of things and checking that they are there.
   Args:
     size (int): max size of the nodes.
@@ -75,9 +75,6 @@ def test_remove(size=3,ninsert=40):
   for key in keys:
     print("About to remove {}".format(key))
     input("Press enter to continue.")
-    #print(tree.root.keys)
-    #print(tree.root.children[1].keys)
-    #print(tree.root.children[1].parent.keys)
     ans.pop(key)
     tree.remove(key)
     tree.make_pydot_graph()
@@ -85,6 +82,7 @@ def test_remove(size=3,ninsert=40):
 
 def shakedown(tree,solutions):
   for key in solutions:
+    print(key)
     guess = tree.query(key)
     assert guess == solutions[key],'{} yields {} instead of {}'.format(key,guess,solutions[key])
   print("Shakedown!")
@@ -334,7 +332,6 @@ class InternalNode:
     ''' Merge with left sibling.'''
     left = self.parent.children[parplace-1]
 
-    self.keys = concatenate((left.keys,self.keys))
     self.keys = concatenate((left.keys,array([self.parent.keys[parplace-1]]),self.keys))
     self.children = concatenate((left.children,self.children))
     for child in left.children:
