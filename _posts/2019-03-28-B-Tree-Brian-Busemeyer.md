@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  "BK-Tree"
+title:  "B-Tree"
 subheadline:  "by Brian Busemeyer"
-teaser: "BK-Tree is an efficient method for determining the closest member of a set to another point outside the set."
+teaser: "B-trees are ubiquitous database structures, used in the NTFS, FAT, and Ext4 file system formats, among others."
 
 categories:
     - algorithm
