@@ -8,7 +8,7 @@ header:
 permalink: "/roadmap/"
 ---
 
-### Time: Thursday 1:00 pm CST once in two weeks
+### Time: Thursday 1:00 pm CST
 
 ### Location: Loomis 322
 
@@ -23,8 +23,8 @@ permalink: "/roadmap/"
 |Feb. 28 | Chris   | Markov Decision Process and Reinforcement Learning |
 |Mar. 14 | Matt    |   The Art of O(1) Lookup    |
 |Mar. 28 | Brian   |           B-tree            |
-|Apr. 11 | Alina   |   |
-|Apr. 25 | Will Wei|   |
+|May 23  | Will Wei|   |
+|May 30  | Alina   |   |
 |:-------|:--------|:---------------------------:|
 
 [2016 schedule][1]
