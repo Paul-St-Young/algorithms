@@ -8,7 +8,7 @@ header:
 permalink: "/roadmap/"
 ---
 
-### Time: Thursday 1:00 pm CST
+### Time: Thursday 1:00 pm CDT
 
 ### Location: Loomis 322
 
@@ -23,7 +23,7 @@ permalink: "/roadmap/"
 |Feb. 28 | Chris   | Markov Decision Process and Reinforcement Learning |
 |Mar. 14 | Matt    |   The Art of O(1) Lookup    |
 |Mar. 28 | Brian   |           B-tree            |
-|May 23  | Will Wei|   |
+|May 23  | Will Wei|          Adaboost           |
 |May 30  | Alina   |   |
 |:-------|:--------|:---------------------------:|
 
