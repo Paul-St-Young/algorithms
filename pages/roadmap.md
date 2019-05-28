@@ -24,7 +24,7 @@ permalink: "/roadmap/"
 |Mar. 14 | Matt    |   The Art of O(1) Lookup    |
 |Mar. 28 | Brian   |           B-tree            |
 |May 23  | Will Wei|          Adaboost           |
-|May 30  | Alina   |   |
+|May 30  | Alina   | Natural Language Generation |
 |:-------|:--------|:---------------------------:|
 
 [2016 schedule][1]
