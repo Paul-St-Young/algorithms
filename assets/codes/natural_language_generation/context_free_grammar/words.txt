@@ -1,0 +1,20 @@
+# Nouns (singular):
+dog, cat, mouse, horse, sheep, goat, goose, capybara, kid, booger, underwear, cookie, comrade, litterbox, lipstick, fungus, stench, PhD, student, seat, gas, cake, barbecue, bread, tonsil, brain, zombie, shrine, jellybean, picnic basket, phone, cheese, pot, towel, wax, chair, bed, grass, pipette, laptop, Blue Waters, UIUC, raygun, space, Martian, alien, space ship, sand, broom, house, bed, sofa, chair, game, ego, story, poem, ennui, angst
+#
+# Nouns (plural):
+dogs, cats, mice, horses, sheep, goats, geese, capybara, kids, boogers, underwear, cookies, comrades, litterboxes, lipsticks, fungi, students, degrees, seats, gasses, cakes, barbecues, lights, brains, tonsils, zombies, shrines, jellybeans, picnic baskets, phones, cheeses, pots, towels, waxes, chairs, beds, grasses, pipettes, laptops, Martians, aliens, space ships, chairs, houses, beds, sofas, games, egos, stories, poems, teens, youths
+#
+# Verbs (transitive):
+eat, kick, punch, cook, sweep, attack, pet, drink, mix, destroy, break, build, create, enlighten, teach, understand, uncover, cut, polish, wax, paint, clean, censor, grade, critique, ignore, avoid, approach, caress
+#
+# Verbs (intranstive):
+sit, run, jump, lie, sleep, talk, breathe, exercise, relax, rest, stretch, write, read, edit
+#
+# Adjectives:
+beautiful, ugly, smart, stupid, uncouth, unbelievable, remarkable, unremarkable, disappointing, salubrious, nonplussed, inconceivable, large, small, gargantuan, cyclopean, ethereal, eldritch, ridiculous, attractive, amazing, calm, relaxed, cultured, annoying, calming, fuzzy, furry, hairy, filthy, spotless, loathsome, surprising, ignorant, political, sensuous, gentle
+#
+# Adverbs:
+quickly, slowly, judiciously, numbly, agrily, joyfully, ignorantly, carefully, smoothly, uneventfully, calmly, briskly, studiously, forcefully, gently, sensuously, aggressively, athletically, brilliantly, politically, breezily, snootily, pretentiously, academically, professorially, studiously, undergraduately, childishly, maturely
+#
+# Prepositions:
+over, under, inside of, outside of, with, without, by, next to, on
