@@ -21,10 +21,10 @@ In [this presentation][talk], I show a few simple methods for natural language g
 
 ## Examples
   * [haiku.py][spoetry]: "Cut-up spoetry" or Haikus randomly generated from mass emails to UIUC engineering graduate students ([emails.txt][emails]).
-  * [markov.tar][markov]: Implementation of a simple Markov text generator and an n-gram Markov text generator to rehash abstracts. ([abstrats.txt][abstracts]).
+  * [markov.tar][markov]: Implementation of a simple Markov text generator and an n-gram Markov text generator to rehash abstracts ([abstrats.txt][abstracts]).
   * [CFG.py][CFG]: Implementation of a simple context-free grammar to generate grammatically correct sentences from a word bank ([words.txt][words]).
 
-### All data structures.
+### All natural language
 {: .t60 }
 
 {% include list-posts tag='language' %}
