@@ -8,23 +8,23 @@ header:
 permalink: "/roadmap/"
 ---
 
-### Time: Thursday 1:00 pm CDT
+### Time: Friday 2:00 pm CDT
 
 ### Location: Loomis 322
 
-## Current schedule (2019 Spring)
+## Current schedule (2019 Fall)
 
 |:-------|:--------|:---------------------------:|
 |  Date  | Person  | Subject                     |
 |:-------|:--------|:---------------------------:|
-|Jan. 17 | Paul    |          Kriging            |
-|Jan. 31 | Ryan    |       Randomized SVD        |
-|Feb. 14 | Eli     | Spectral Embedding and Clustering |
-|Feb. 28 | Chris   | Markov Decision Process and Reinforcement Learning |
-|Mar. 14 | Matt    |   The Art of O(1) Lookup    |
-|Mar. 28 | Brian   |           B-tree            |
-|May 23  | Will Wei|          Adaboost           |
-|May 30  | Alina   | Natural Language Generation |
+|Sep.  6 | Matt    |       Playing Games         |
+|Sep. 20 | Kevin   | |
+|Oct.  4 | Ryan    | |
+|Oct. 18 | Eli     | |
+|Nov.  1 | Zeqian  | |
+|Nov. 15 | Will Wei| |
+|Nov. 29 | | |
+|Dec. 13 | Alina   | |
 |:-------|:--------|:---------------------------:|
 
 [2016 schedule][1]
