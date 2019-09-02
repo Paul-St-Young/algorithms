@@ -146,4 +146,5 @@ The presentation should be 30-50 min if given without interruptions. Interactive
 [2]: {{ site.url }}/pages/2017sp_roadmap.md
 [3]: {{ site.url }}/pages/2017fa_roadmap.md
 [4]: {{ site.url }}/pages/2018sp_roadmap.md
+[5]: {{ site.url }}/pages/2019sp_roadmap.md
 [repo]: https://github.com/Paul-St-Young/algorithms
