@@ -18,8 +18,8 @@ permalink: "/roadmap/"
 |  Date  | Person  | Subject                     |
 |:-------|:--------|:---------------------------:|
 |Sep.  6 | Matt    |       Playing Games         |
-|Sep. 20 | Kevin   | |
-|Oct.  4 | Ryan    | |
+|Sep. 20 | Kevin   |  Applications of Graphs     |
+|Oct.  4 | Ryan    |   Theory of Percolation     |
 |Oct. 18 | Eli     | |
 |Nov.  1 | Zeqian  | |
 |Nov. 15 | Will Wei| |
