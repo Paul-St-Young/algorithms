@@ -18,9 +18,9 @@ permalink: "/roadmap/"
 |  Date  | Person  | Subject                     |
 |:-------|:--------|:---------------------------:|
 |Sep.  6 | Matt    |       Playing Games         |
-|Sep. 20 | Kevin   |  Applications of Graphs     |
-|Oct.  4 | Ryan    |   Theory of Percolation     |
-|Oct. 18 | Eli     | |
+|Sep. 20 | Kevin   |     Graphs and Coloring     |
+|Oct.  4 | Ryan    | Percolation and Newman-Ziff |
+|Oct. 18 | Eli     |   Coupling from the Past    |
 |Nov.  1 | Zeqian  | |
 |Nov. 15 | Will Wei| |
 |Nov. 29 | | |
