@@ -21,7 +21,7 @@ permalink: "/roadmap/"
 |Sep. 20 | Kevin   |     Graphs and Coloring     |
 |Oct.  4 | Ryan    | Percolation and Newman-Ziff |
 |Oct. 18 | Eli     |   Coupling from the Past    |
-|Nov.  1 | Zeqian  | |
+|Nov.  1 | Paul    | Compressive Sensing part II |
 |Nov. 15 | Will Wei| |
 |Nov. 29 | | |
 |Dec. 13 | Alina   | |
