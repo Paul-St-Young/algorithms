@@ -34,5 +34,5 @@ In [these slides][1], I present:
 {% include list-posts tag='markov chain' %}
 
 [1]:   {{ site.url }}/assets/slides/CouplingFromThePast.pdf
-[ex1]: {{ site.url }}/assets/codes/cftp/simple\_cftp.py
+[ex1]: {{ site.url }}/assets/codes/cftp/simple_cftp.py
 [ex2]: {{ site.url }}/assets/codes/cftp/CFTP.zip
