@@ -28,6 +28,9 @@ In [these slides][1], I present:
   * [cs\_phantom.py][ex3]: reconstruct Shepp-Logan phantom. You also need [phantom.py][ph] to generate the phantom image and [config\_h5][ch5]] to store the constructed A matrix (or code is pretty slow).
 
 ## References
+  * [molecular dynamics spectrum][ref1]
+  * [lattice dynamics][ref2]
+  * [belief propagation vs. L1][ref3] and its [phantom generator][refph]
 
 ### All Signal Processing
 {: .t60 }
@@ -40,3 +43,7 @@ In [these slides][1], I present:
 [ex3]: {{ site.url }}/assets/codes/csense/cs_phantom.py
 [ph]: {{ site.url }}/assets/codes/csense/phantom.py
 [ch5]: {{ site.url }}/assets/codes/csense/conf_h5.py
+[ref1]: https://www.pnas.org/content/109/35/13928
+[ref2]: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.113.185501
+[ref3]: https://journals.aps.org/prx/abstract/10.1103/PhysRevX.2.021005
+[refph]: http://aspics.krzakala.org/
