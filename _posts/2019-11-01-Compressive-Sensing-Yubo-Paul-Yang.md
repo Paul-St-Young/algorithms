@@ -2,7 +2,7 @@
 layout: page
 title:  "Compressive Sensing"
 subheadline:  "by Yubo \"Paul\" Yang"
-teaser: "Compressive sensing takes advantage of sparsity to reconstruct full signal from sparse samples in a way that is not limited by Nyquist-Shannon. It effectively performs compression at the time of sensing so that fewer detector/sensors are needed. It has many practical applications ranging such as single-pixel camera, digital-to-analog conversion, and lattice dynamics in atomic simulations."
+teaser: "Compressive sensing takes advantage of sparsity to reconstruct full signal from sparse samples in a way that is not limited by Nyquist-Shannon. It effectively performs compression at the time of sensing so that few detector/sensors are needed. It has many practical applications such as single-pixel camera, digital-to-analog conversion, and lattice dynamics in atomic simulations."
 
 categories:
     - algorithm
