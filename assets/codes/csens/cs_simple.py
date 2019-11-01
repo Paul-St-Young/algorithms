@@ -3,6 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 def cs(asamp, ysamp):
+  nfull = asamp.shape[0]
   # solve Ax=y for x
   import cvxpy as cvx
   myx = cvx.Variable(nfull)

@@ -17,14 +17,15 @@ header:
 <!-- Page Content Starts Here -->
 
 ## Presentation Summary
-In these slides, I present:
+In [these slides][1], I present:
 
   * Basic idea behind the compressive sensing (cs).
-  * Examples.
+  * A few simple examples.
 
 ## Examples
   * [cs\_simple.py][ex1]: simplest CS implementation.
   * [beat\_nyqsha.py][ex2]: beat Nyquist-Shannon frequency for perfect reconstruction.
+  * [cs\_phantom.py][ex3]: reconstruct Shepp-Logan phantom. You also need [phantom.py][ph] to generate the phantom image and [config\_h5][ch5]] to store the constructed A matrix (or code is pretty slow).
 
 ## References
 
@@ -36,3 +37,6 @@ In these slides, I present:
 [1]:   {{ site.url }}/assets/slides/csense.pdf
 [ex1]: {{ site.url }}/assets/codes/csense/cs_simple.py
 [ex2]: {{ site.url }}/assets/codes/csense/beat_nyqsha.py
+[ex3]: {{ site.url }}/assets/codes/csense/cs_phantom.py
+[ph]: {{ site.url }}/assets/codes/csense/phantom.py
+[ch5]: {{ site.url }}/assets/codes/csense/conf_h5.py
