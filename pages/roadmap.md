@@ -8,7 +8,7 @@ header:
 permalink: "/roadmap/"
 ---
 
-### Time: Friday 2:00 pm CDT
+### Time: Friday 2:00 pm CST
 
 ### Location: Loomis 322
 
