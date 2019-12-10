@@ -24,7 +24,7 @@ permalink: "/roadmap/"
 |Nov.  1 | Paul    | Compressive Sensing part II |
 |Nov. 15 | Will Wei|    Deep learning and PDE    |
 |Nov. 29 | | |
-|Dec. 13 | Alina   | |
+|Dec. 13 | Alina   |     Space Partitioning      |
 |:-------|:--------|:---------------------------:|
 
 [2016 schedule][1]
