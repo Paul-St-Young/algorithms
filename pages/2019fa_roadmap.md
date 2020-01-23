@@ -5,26 +5,25 @@ subheadline: "ToDo-List &amp; Ideas"
 teaser: "Here are some ideas we hope to cover/implement in the future."
 header:
    image_fullwidth: "header_roadmap_3.jpg"
-permalink: "/roadmap/"
 ---
 
-### Time: TBA <!--Friday 2:00 pm CST-->
+### Time: Friday 2:00 pm CST
 
-### Location: TBA <!--Loomis 322-->
+### Location: Loomis 322
 
-## Current schedule (2020 Spring)
+## Current schedule (2019 Fall)
 
 |:-------|:--------|:---------------------------:|
 |  Date  | Person  | Subject                     |
 |:-------|:--------|:---------------------------:|
-|Feb. ?? | Ryan    |  ? ?  |
-|Feb. ?? | Eli   |    ? ?  |
-|Mar. ?? | Chad    |  ? ?  |
-|Mar. ?? | ???     |  ? ?  |
-|Apr. ?? | ????    |  ? ?  |
-|Apr. ?? | ????    |  ? ?  |
-|May. ?? | ???????  | ? ?  |
-|May. ?? | ?????   |  ? ?  |
+|Sep.  6 | Matt    |       Playing Games         |
+|Sep. 20 | Kevin   |     Graphs and Coloring     |
+|Oct.  4 | Ryan    | Percolation and Newman-Ziff |
+|Oct. 18 | Eli     |   Coupling from the Past    |
+|Nov.  1 | Paul    | Compressive Sensing part II |
+|Nov. 15 | Will Wei|    Deep learning and PDE    |
+|Nov. 29 | | |
+|Dec. 13 | Alina   |     Space Partitioning      |
 |:-------|:--------|:---------------------------:|
 
 [2016 schedule][1]
@@ -34,11 +33,6 @@ permalink: "/roadmap/"
 [2017fa schedule][3]
 
 [2018sp schedule][4]
-
-[2019sp schedule][5]
-
-[2019fa schedule][6]
-
 
 ## Speaker Guidelines
 
@@ -152,5 +146,4 @@ The presentation should be 30-50 min if given without interruptions. Interactive
 [3]: {{ site.url }}/pages/2017fa_roadmap.md
 [4]: {{ site.url }}/pages/2018sp_roadmap.md
 [5]: {{ site.url }}/pages/2019sp_roadmap.md
-[6]: {{ site.url }}/pages/2019fa_roadmap.md
 [repo]: https://github.com/Paul-St-Young/algorithms

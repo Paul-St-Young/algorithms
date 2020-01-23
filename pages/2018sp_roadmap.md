@@ -5,7 +5,6 @@ subheadline: "ToDo-List &amp; Ideas"
 teaser: "Here are some ideas we hope to cover/implement in the future."
 header:
    image_fullwidth: "header_roadmap_3.jpg"
-permalink: "/roadmap/"
 ---
 
 ### Time: Thursday 5:00 pm CST once in two weeks

@@ -14,6 +14,11 @@ phlow: # replace this with your info
 # you can add more authors here
 paul: # replace this with your info
   name: "Yubo \"Paul\" Yang"
+  siterole: "Emeritus webmaster, developer"
+  uri: https://paul-st-young.github.io/
+  email: yyang173@illinois.edu
+ryan: # replace this with your info
+  name: "Ryan Levy"
   siterole: "webmaster, developer"
-  uri: http://publish.illinois.edu/yubo-paul-yang/
+  uri: https://ryanlevy.github.io/
   email: yyang173@illinois.edu

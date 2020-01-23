@@ -10,6 +10,7 @@ permalink: "/contact/"
 ---
 Please visit the [GitHub page][1]
 
-Site administrator: yyang173@illinois.edu
+Site administrator: rlevy3(_at_)illinois.edu  
+Admin Emeritus: yyang173(_at_)illinois.edu  
 
 [1]: https://github.com/Paul-St-Young/algorithms
