@@ -8,23 +8,23 @@ header:
 permalink: "/roadmap/"
 ---
 
-### Time: TBA <!--Friday 2:00 pm CST-->
+### Time: Friday 10:00 am CST
 
-### Location: TBA <!--Loomis 322-->
+### Location: Loomis 222
 
 ## Current schedule (2020 Spring)
 
 |:-------|:--------|:---------------------------:|
 |  Date  | Person  | Subject                     |
 |:-------|:--------|:---------------------------:|
-|Feb. ?? | Ryan    |  ? ?  |
-|Feb. ?? | Eli   |    ? ?  |
-|Mar. ?? | Chad    |  ? ?  |
-|Mar. ?? | ???     |  ? ?  |
-|Apr. ?? | ????    |  ? ?  |
-|Apr. ?? | ????    |  ? ?  |
-|May. ?? | ???????  | ? ?  |
-|May. ?? | ?????   |  ? ?  |
+|Feb. 14 | Ryan    |  Maximum Entropy - From Image Processing to Analytic Continuation  |
+|Feb. 28 | Eli     |    ? ?  |
+|Mar. 13 | Chad    |  Simulated Annealing  |
+|Mar. 27 | Kevin   |  ? ?  |
+|Apr. 10 | (Paul)    |  ? ?  |
+|Apr. 24 | Greg    |  ? ?  |
+|May. 08 | Zeqian  | ? ?  |
+|May. 22 | (Matt)  | ? ?  |
 |:-------|:--------|:---------------------------:|
 
 [2016 schedule][1]
