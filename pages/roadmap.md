@@ -10,7 +10,7 @@ permalink: "/roadmap/"
 
 ### Time: Friday 10:00 am CST
 
-### Location: Loomis 222
+### Location: Loomis 322
 
 ## Current schedule (2020 Spring)
 
