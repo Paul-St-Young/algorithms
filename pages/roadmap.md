@@ -18,13 +18,13 @@ permalink: "/roadmap/"
 |  Date  | Person  | Subject                     |
 |:-------|:--------|:---------------------------:|
 |Feb. 14 | Ryan    |  Maximum Entropy - From Image Processing to Analytic Continuation  |
-|Feb. 28 | Eli     |    ? ?  |
+| <s>Feb. 28</s> | <s>Eli</s>     |    <s>? ?</s>  |
 |Mar. 13 | Chad    |  Simulated Annealing  |
-|Mar. 27 | Kevin   |  ? ?  |
-|Apr. 10 | (Paul)    |  ? ?  |
+|Mar. 26 | Zeqian   |  Python Visualization |
+|Apr. 10 | Matt    |  ? ?  |
 |Apr. 24 | Greg    |  ? ?  |
-|May. 08 | Zeqian  | ? ?  |
-|May. 22 | (Matt)  | ? ?  |
+|May. 08 | Kevin L.  | ? ?  |
+|May. 22 | Kevin K.  | ? ?  |
 |:-------|:--------|:---------------------------:|
 
 [2016 schedule][1]
