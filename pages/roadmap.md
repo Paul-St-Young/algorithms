@@ -18,13 +18,12 @@ permalink: "/roadmap/"
 |  Date  | Person  | Subject                     |
 |:-------|:--------|:---------------------------:|
 |Feb. 14 | Ryan    |  Maximum Entropy - From Image Processing to Analytic Continuation  |
-| <s>Feb. 28</s> | <s>Eli</s>     |    <s>? ?</s>  |
+| <s>Feb. 28</s> | <s>???</s>     |    <s>? ?</s>  |
 |Mar. 13 | Chad    |  Simulated Annealing  |
 |Mar. 26 | Zeqian   |  Python Visualization |
-|Apr. 10 | Matt    |  ? ?  |
-|Apr. 24 | Greg    |  ? ?  |
+|Apr. 10 | Matt    |  Modeling polarization on social media platforms   |
+|Apr. 24 | Greg    |  Graph Cuts and Portfolio Optimization  |
 |May. 08 | Kevin L.  | ? ?  |
-|May. 22 | Kevin K.  | ? ?  |
 |:-------|:--------|:---------------------------:|
 
 [2016 schedule][1]
