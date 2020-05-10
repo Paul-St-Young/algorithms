@@ -23,7 +23,7 @@ permalink: "/roadmap/"
 |Mar. 26 | Zeqian   |  Python Visualization |
 |Apr. 10 | Matt    |  Modeling polarization on social media platforms   |
 |Apr. 24 | Greg    |  Graph Cuts and Portfolio Optimization  |
-|May. 08 | Kevin L.  | ? ?  |
+|May. 08 | Kevin L.  | Dithering  |
 |:-------|:--------|:---------------------------:|
 
 [2016 schedule][1]

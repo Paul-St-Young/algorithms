@@ -9,6 +9,8 @@ categories:
 tags:
     - modeling
     - polarization 
+author: ryan  
+
 ---
 <!-- Page Content Starts Here -->
 

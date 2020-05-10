@@ -13,6 +13,8 @@ image:
 header:
     image_fullwidth: "percolating-fire.jpg"
     caption: Percolating fire. Photo by sippakorn yamkasikorn on Unsplash.
+author: ryan 
+
 ---
 <!-- Page Content Starts Here -->
 
