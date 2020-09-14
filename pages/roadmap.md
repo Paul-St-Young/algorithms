@@ -18,12 +18,12 @@ permalink: "/roadmap/"
 |  Date  | Person  | Subject                            |
 |:-------|:--------|:----------------------------------:|
 |Sep. 21 | George  | [Modeling COVID19]                 |
-|Oct. 05 | Ryan    | The magic of NUTS                  |
+|Oct. 05 | Kevin L.| ????                               |
 |Oct. 19 | Paul    | ????                               |
 |Nov. 02 | Mayisha | Graphing Temporal Dynamics in fMRI |
 |Nov. 16 | Abid    | [Something computational topology] |
 |Nov. 30 | Greg    | Persistent Homology                |
-|Dec. 07 | ????    | ????                               |
+|Dec. 07 | Ryan    | The magic of NUTS                  |
 |:-------|:--------|:----------------------------------:|
 
 [2016 schedule][1]
