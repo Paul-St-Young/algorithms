@@ -8,23 +8,23 @@ header:
 permalink: "/roadmap/"
 ---
 
-### Time: Friday 10:00 am CST
+### Time: Monday 3:00 pm CT
 
-### Location: Loomis 322
+### Location: Zoom (Ether)
 
-## Current schedule (2020 Spring)
+## Current schedule (2020 Fall)
 
-|:-------|:--------|:---------------------------:|
-|  Date  | Person  | Subject                     |
-|:-------|:--------|:---------------------------:|
-|Feb. 14 | Ryan    |  Maximum Entropy - From Image Processing to Analytic Continuation  |
-| <s>Feb. 28</s> | <s>???</s>     |    <s>? ?</s>  |
-|Mar. 13 | Chad    |  Simulated Annealing  |
-|Mar. 26 | Zeqian   |  Python Visualization |
-|Apr. 10 | Matt    |  Modeling polarization on social media platforms   |
-|Apr. 24 | Greg    |  Graph Cuts and Portfolio Optimization  |
-|May. 08 | Kevin L.  | Dithering  |
-|:-------|:--------|:---------------------------:|
+|:-------|:--------|:----------------------------------:|
+|  Date  | Person  | Subject                            |
+|:-------|:--------|:----------------------------------:|
+|Sep. 21 | George  | [Modeling COVID19]                 |
+|Oct. 05 | Ryan    | The magic of NUTS                  |
+|Oct. 19 | Paul    | ????                               |
+|Nov. 02 | Mayisha | Graphing Temporal Dynamics in fMRI |
+|Nov. 16 | Abid    | [Something computational topology] |
+|Nov. 30 | Greg    | Persistent Homology                |
+|Dec. 07 | ????    | ????                               |
+|:-------|:--------|:----------------------------------:|
 
 [2016 schedule][1]
 
@@ -37,6 +37,8 @@ permalink: "/roadmap/"
 [2019sp schedule][5]
 
 [2019fa schedule][6]
+
+[2020sp schedule][7]
 
 
 ## Speaker Guidelines
@@ -151,5 +153,6 @@ The presentation should be 30-50 min if given without interruptions. Interactive
 [3]: {{ site.url }}/pages/2017fa_roadmap.md
 [4]: {{ site.url }}/pages/2018sp_roadmap.md
 [5]: {{ site.url }}/pages/2019sp_roadmap.md
-[6]: {{ site.url }}/pages/2019fa_roadmap.md
+[6]: {{ site.url }}/pages/2019fa_roadmap.md  
+[7]: {{ site.url }}/pages/2020sp_roadmap.md  
 [repo]: https://github.com/Paul-St-Young/algorithms
