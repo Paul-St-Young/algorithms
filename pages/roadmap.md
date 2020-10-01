@@ -18,7 +18,7 @@ permalink: "/roadmap/"
 |  Date  | Person  | Subject                            |
 |:-------|:--------|:----------------------------------:|
 |Sep. 21 | George  | Agent-based and non-markovian models of the spread of COVID-19 |
-|Oct. 05 | Kevin L.| ????                               |
+|Oct. 05 | Kevin L.| PSLQ                               |
 |Oct. 19 | Paul    | Linear Sum Assignment              |
 |Nov. 02 | Mayisha | Graphing Temporal Dynamics in fMRI |
 |Nov. 16 | Abid    | [Something computational topology] |
