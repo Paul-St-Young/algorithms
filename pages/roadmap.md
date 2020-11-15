@@ -21,7 +21,7 @@ permalink: "/roadmap/"
 |Oct. 05 | Kevin L.| PSLQ                               |
 |Oct. 19 | Paul    | Linear Sum Assignment              |
 |Nov. 09 | Mayisha | Graphing Temporal Dynamics in fMRI |
-|Nov. 16 | Abid    | [Something computational topology] |
+|Nov. 16 | Abid    | Homotopy Testing and Finding Shortest Homotopic Paths |
 |Nov. 30 | Greg    | Persistent Homology                |
 |Dec. 07 | Ryan    | The magic of NUTS                  |
 |:-------|:--------|:----------------------------------:|
