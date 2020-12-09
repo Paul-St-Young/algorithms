@@ -23,7 +23,7 @@ permalink: "/roadmap/"
 |Nov. 09 | Mayisha | Graphing Temporal Dynamics in fMRI |
 |Nov. 16 | Abid    | Homotopy Testing and Finding Shortest Homotopic Paths |
 |Nov. 30 | Greg    | Persistent Homology                |
-|Dec. 07 | Ryan    | The magic of NUTS                  |
+|Dec. 14 | Ryan    | The magic of NUTS                  |
 |:-------|:--------|:----------------------------------:|
 
 [2016 schedule][1]
