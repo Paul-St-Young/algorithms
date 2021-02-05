@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Graphing Directional Connectivity in FMRI"
-subheadline:  "by Mayisha Nakib"
+subheadline:  "by Mayisha Zeb Nakib"
 teaser: "Understanding FMRI Data through PageRank"
 
 categories:
