@@ -12,18 +12,18 @@ permalink: "/roadmap/"
 
 ### Location: Zoom (Ether)
 
-## Current schedule (2020 Fall)
+## Current schedule (2021 Spring)
 
 |:-------|:--------|:----------------------------------:|
 |  Date  | Person  | Subject                            |
 |:-------|:--------|:----------------------------------:|
-|Sep. 21 | George  | Agent-based and non-markovian models of the spread of COVID-19 |
-|Oct. 05 | Kevin L.| PSLQ                               |
-|Oct. 19 | Paul    | Linear Sum Assignment              |
-|Nov. 09 | Mayisha | Graphing Temporal Dynamics in fMRI |
-|Nov. 16 | Abid    | Homotopy Testing and Finding Shortest Homotopic Paths |
-|Nov. 30 | Greg    | Persistent Homology                |
-|Dec. 14 | Ryan    | The magic of NUTS                  |
+|Feb. 08 | Eli     | Expectation-Maximization           |
+|Feb. 22 | Ryan    | ????                               |
+|Mar. 08 | Mayisha | I took CS408 Parallel Programing with CUDA so you don’t have to  |
+|Mar. 22 | Kevin K.| Stochastic Gradient Descent        |
+|Apr. 12 | Chad    | Compression                        |
+|Apr. 26 | Will    | ????                               |
+|May. 10 | Kevin L.| ????                               |
 |:-------|:--------|:----------------------------------:|
 
 [2016 schedule][1]
@@ -39,6 +39,8 @@ permalink: "/roadmap/"
 [2019fa schedule][6]
 
 [2020sp schedule][7]
+
+[2020fa schedule][8]
 
 
 ## Speaker Guidelines
@@ -153,6 +155,7 @@ The presentation should be 30-50 min if given without interruptions. Interactive
 [3]: {{ site.url }}/pages/2017fa_roadmap.md
 [4]: {{ site.url }}/pages/2018sp_roadmap.md
 [5]: {{ site.url }}/pages/2019sp_roadmap.md
-[6]: {{ site.url }}/pages/2019fa_roadmap.md  
-[7]: {{ site.url }}/pages/2020sp_roadmap.md  
+[6]: {{ site.url }}/pages/2019fa_roadmap.md
+[7]: {{ site.url }}/pages/2020sp_roadmap.md
+[8]: {{ site.url }}/pages/2020fa_roadmap.md
 [repo]: https://github.com/Paul-St-Young/algorithms
