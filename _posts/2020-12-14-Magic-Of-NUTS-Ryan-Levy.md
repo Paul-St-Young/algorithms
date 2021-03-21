@@ -37,7 +37,7 @@ In [these slides][1], I present:
 
 {% include list-posts tag='Monte-Carlo' %}
 
-[1]: {{ site.url }}/assets/slides/The_Magic_Of_NUTS.pdf
+[1]: {{ site.url }}/assets/slides/The_Magic_of_NUTS.pdf
 [2]: {{ site.url }}/assets/notebooks/HMC_noan.ipynb
 [3]: https://elevanth.org/blog/2017/11/28/build-a-better-markov-chain/
 [4]: https://chi-feng.github.io/mcmc-demo/
