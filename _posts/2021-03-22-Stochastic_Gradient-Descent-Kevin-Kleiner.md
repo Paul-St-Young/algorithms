@@ -1,38 +1,35 @@
 ---
 layout: page
-title:  "RANSAC"
-subheadline: "by Ryan Levy"
-teaser: "Fitting models with outlier detection"
+title:  "Exploring Stochastic Gradient Descent and its Modifications"
+subheadline: "Kevin Kleiner: Algorithm Interest Group on March 22, 2021"
+teaser: "Introducing SGD optimization: the bread and butter of model fitting problems"
 
 categories:
     - algorithm
 tags:
-    - fitting
-author: ryan 
+    - optimization
+author: Kevin Kleiner 
 
 ---
 <!-- Page Content Starts Here -->
 
 ## Presentation Summary
-In [these slides][1], I present:
+In [these slides] [1], I present:
 
-  * RANSAC - Random Sample Consensus
-  * Brief extensions (the RANSAC family of algorithms) 
+  * Context and conceptual overview [2] of gradient descent and stochastic gradient descent
+  * Brief descriptions of modifications to SGD with visual comparisons [3]
 
 ## Examples
-  * [RANSAC.ipynb][2]
+  * [SGD_Demos.ipynb] [4] using Kaggle height-weight data [5]
 
-## References
-  * [Ancient Secrets of Computer Vision][3]
-  * [doi:10.1561/0600000009][5] \| [doi:10.1007/978-3-540-88688-4_37][4]
-
-### All Fitting
+### References
 {: .t60 }
 
-{% include list-posts tag='fitting' %}
+{% include list-posts tag='optimization' %}
 
-[1]: {{ site.url }}/assets/slides/RANSAC.pdf
-[2]: {{ site.url }}/assets/notebooks/RANSAC.ipynb
-[3]: https://pjreddie.com/courses/computer-vision/
-[4]: https://link.springer.com/chapter/10.1007/978-3-540-88688-4_37
-[5]: http://dx.doi.org/10.1561/0600000009 
+[1]: {{ site.url }}/assets/slides/SGD_Slides.pdf
+[2]: https://arxiv.org/pdf/1609.04747.pdf
+[3]: http://www.denizyuret.com/2015/03/alec-radfords-animations-for.html
+[4]: {{ site.url }}/assets/notebooks/SGD_Demos.ipynb
+[5]: https://www.kaggle.com/mustafaali96/weight-height
+
