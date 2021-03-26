@@ -40,10 +40,10 @@ In [these slides][1], I present:
 {% include list-posts tag='fitting' %}
 
 [1]: {{ site.url }}/assets/slides/EMTalk.pdf
-[2]: {{ site.url }}/assets/code/em/em.py
-[3]: {{ site.url }}/assets/code/em/test_em.py
-[4]: {{ site.url }}/assets/code/em/test_em1.py
-[5]: {{ site.url }}/assets/code/em/test_em2.py
-[6]: {{ site.url }}/assets/code/em/test_em3.py
+[2]: {{ site.url }}/assets/codes/em/em.py
+[3]: {{ site.url }}/assets/codes/em/test_em.py
+[4]: {{ site.url }}/assets/codes/em/test_em1.py
+[5]: {{ site.url }}/assets/codes/em/test_em2.py
+[6]: {{ site.url }}/assets/codes/em/test_em3.py
 [7]: https://see.stanford.edu/materials/aimlcs229/cs229-notes8.pdf
 [8]: https://www.ics.uci.edu/~smyth/courses/cs274/notes/EMnotes.pdf
