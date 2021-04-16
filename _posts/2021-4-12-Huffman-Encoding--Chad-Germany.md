@@ -23,12 +23,8 @@ In [these slides][1], I present:
   * Implementation of the algorithm on a text document.
 
 ## Examples
-<<<<<<< HEAD
+
   * [huffman_encoding.ipynb][ex1]: I created a text file and wrote a message that the code reads and encodes that message to huffman.txt. It can then be read and and written to decode.txt([html][ex1h])
-
-
-
-
 
 ### All Compression
 {: .t60 }
