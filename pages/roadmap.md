@@ -8,24 +8,23 @@ header:
 permalink: "/roadmap/"
 ---
 
-### Time: Friday 10:00 am CST
+### Time: Monday 3:00 pm CT
 
-### Location: Loomis 322
+### Location: Zoom (Ether)
 
-## Current schedule (2020 Spring)
+## Current schedule (2021 Spring)
 
-|:-------|:--------|:---------------------------:|
-|  Date  | Person  | Subject                     |
-|:-------|:--------|:---------------------------:|
-|Feb. 14 | Ryan    |  Maximum Entropy - From Image Processing to Analytic Continuation  |
-|Feb. 28 | Eli     |    ? ?  |
-|Mar. 13 | Chad    |  Simulated Annealing  |
-|Mar. 27 | Kevin   |  ? ?  |
-|Apr. 10 | (Paul)    |  ? ?  |
-|Apr. 24 | Greg    |  ? ?  |
-|May. 08 | Zeqian  | ? ?  |
-|May. 22 | (Matt)  | ? ?  |
-|:-------|:--------|:---------------------------:|
+|:-------|:--------|:----------------------------------:|
+|  Date  | Person  | Subject                            |
+|:-------|:--------|:----------------------------------:|
+|Feb. 08 | Eli     | Expectation-Maximization           |
+|Feb. 22 | Ryan    | ????                               |
+|Mar. 08 | Mayisha | I took CS408 Parallel Programing with CUDA so you don’t have to  |
+|Mar. 22 | Kevin K.| Stochastic Gradient Descent        |
+|Apr. 12 | Chad    | Compression                        |
+|Apr. 26 | Will    | ????                               |
+|May. 10 | Kevin L.| ????                               |
+|:-------|:--------|:----------------------------------:|
 
 [2016 schedule][1]
 
@@ -38,6 +37,10 @@ permalink: "/roadmap/"
 [2019sp schedule][5]
 
 [2019fa schedule][6]
+
+[2020sp schedule][7]
+
+[2020fa schedule][8]
 
 
 ## Speaker Guidelines
@@ -153,4 +156,6 @@ The presentation should be 30-50 min if given without interruptions. Interactive
 [4]: {{ site.url }}/pages/2018sp_roadmap.md
 [5]: {{ site.url }}/pages/2019sp_roadmap.md
 [6]: {{ site.url }}/pages/2019fa_roadmap.md
+[7]: {{ site.url }}/pages/2020sp_roadmap.md
+[8]: {{ site.url }}/pages/2020fa_roadmap.md
 [repo]: https://github.com/Paul-St-Young/algorithms
