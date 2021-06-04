@@ -18,12 +18,12 @@ permalink: "/roadmap/"
 |  Date  | Person  | Subject                            |
 |:-------|:--------|:----------------------------------:|
 |Feb. 08 | Eli     | Expectation-Maximization           |
-|Feb. 22 | Ryan    | ????                               |
+|Feb. 22 | Ryan    | RANSAC                             |
 |Mar. 08 | Mayisha | I took CS408 Parallel Programing with CUDA so you don’t have to  |
 |Mar. 22 | Kevin K.| Stochastic Gradient Descent        |
-|Apr. 12 | Chad    | Compression                        |
-|Apr. 26 | Will    | ????                               |
-|May. 10 | Kevin L.| ????                               |
+|Apr. 12 | Chad    | Compression - Huffman Encoding     |
+|Apr. 26 | Will    | Boosted Decision Tree              |
+|May. 10 | Kevin L.| Inference on growing trees         |
 |:-------|:--------|:----------------------------------:|
 
 [2016 schedule][1]
